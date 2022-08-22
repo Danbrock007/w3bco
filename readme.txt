@@ -1,0 +1,1 @@
+I test push, pull & clone cmd in git
